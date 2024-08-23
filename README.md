@@ -1,10 +1,11 @@
 # A-Week-in-Animation
 A week long panel series focused on various aspects of animation.
 
-Event Homepage
+Event Homepage:
 https://www.roadmapwriters.com/products/week-animation
 
 Individual Links to Each Panel Video is Listed Below for Playback:
+
 Diversity in Animation:
 https://www.youtube.com/watch?v=z1uDxOttjLA
 
